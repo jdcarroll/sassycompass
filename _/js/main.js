@@ -1,0 +1,1 @@
+function other(){return"hello cruel "}function hello(){return"hello"}
